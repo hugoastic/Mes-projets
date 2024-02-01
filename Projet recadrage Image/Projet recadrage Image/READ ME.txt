@@ -1,0 +1,5 @@
+Le logiciel de recadrage d'images utilise des fichiers complémentaires tels que icon.ico, No_image.ppm ou un fichier de sauvegarde,
+essentiel au bon fonctionnement de l'interface graphique du logiciel.
+
+Pour lancer le logiciel Imag'app vous pouvez, le lancer à partir de votre IDE python (spyder,...) ou bien utiliser le fichier .bat mis à votre disposition pour le lancer à partir de l'invite de commande de votre ordinateur.
+Pour cela choisissez le fichier Imag'app en py ou python en fonction de la manière dont python a été installé sur votre ordinateur.

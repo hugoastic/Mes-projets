@@ -1,0 +1,11 @@
+py -m pip install sqlite3
+py -m pip install bcrypt
+py -m pip install random
+py -m pip install math
+py -m pip install time
+py -m pip install matplotlib
+py -m pip install tkinter
+py -m pip install tkcalendar
+py -m pip install numpy
+py -m pip install smtplib
+py -m pip install datetime

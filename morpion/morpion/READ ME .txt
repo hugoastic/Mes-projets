@@ -1,0 +1,15 @@
+Jeux de morpion pour jouer à deux ou contre l'IA
+En lançant le programme, entrer dans la console:"Jouer à deux" ou "Jouer contre ordi"
+
+Si vous jouer à deux, vous devez entrer vos pseudos et un tirage au sort est effectué par l'ordi
+
+Si vous jouer contre Fabrice l'IA, vous devez entrer votre pseudo et la partie peut commencer
+
+Bug possible d'affichage:
+- La touche entrer ne fonctionne pas dans la console après avoir tapé du texte. Essayer de bien écrire à coté des deux point":" en cliquant avec votre cuseur à coté.
+
+Fonctionnalités:
+-Tirage au sort pour jouer contre autre joueur
+-Prise en main simple et rapide
+-2 modes de jeux
+- un fichier .bat est dispo, reste plus qu' à créer l'IHM à suivre ....
